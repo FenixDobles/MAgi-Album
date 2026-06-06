@@ -1,0 +1,224 @@
+/* --- ESTRUCTURA PRINCIPAL --- */
+.contenedor-album {
+  text-align: center;
+  padding: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #1a1a1a;
+  color: white;
+  min-height: 100vh;
+}
+
+/* --- ESTILOS PARA LOS BLOQUES DE ÁLBUMES --- */
+.seccion-album {
+  margin-top: 60px;
+  padding-top: 20px;
+  border-top: 1px solid #333;
+  text-align: left;
+}
+
+.titulo-album {
+  color: #ffb86c;
+  font-size: 2em;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  border-left: 5px solid #ffb86c;
+}
+
+/* --- CUADRÍCULA Y MINIATURAS --- */
+.galeria {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+}
+
+.marco-foto {
+  position: relative;
+}
+
+.marco-foto img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.5);
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.marco-foto img:hover {
+  transform: scale(1.05);
+}
+
+/* Indicador visual sobre las miniaturas de video */
+.icono-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 15px 20px;
+  border-radius: 50%;
+  font-size: 1.2em;
+  pointer-events: none;
+}
+
+/* --- EL VISOR INTERACTIVO (ESTILO FACEBOOK) --- */
+.pantalla-completa-lightbox {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  cursor: pointer;
+}
+
+.panel-lightbox {
+  display: flex;
+  background-color: #000;
+  max-width: 95vw;
+  max-height: 95vh;
+  width: 95vw;
+  height: 95vh;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  cursor: default;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.8);
+}
+
+/* Panel Izquierdo (Media) */
+.panel-imagen {
+  flex: 3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a1a1a;
+  position: relative;
+  overflow: hidden;
+}
+
+.panel-imagen img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.video-reproductor {
+  width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  background-color: #000;
+}
+
+/* Flechas laterales de navegación */
+.nav-prev, .nav-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(51, 51, 51, 0.5);
+  color: #fff;
+  border: none;
+  font-size: 2em;
+  font-weight: bold;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1010;
+  transition: background-color 0.2s ease;
+}
+
+.nav-prev:hover, .nav-next:hover {
+  background-color: rgba(100, 100, 100, 0.8);
+}
+
+.nav-prev { left: 20px; }
+.nav-next { right: 20px; }
+
+/* Panel Derecho (Información) */
+.panel-info {
+  flex: 1;
+  background-color: #000;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  overflow-y: auto;
+  position: relative;
+  border-left: 1px solid #222;
+}
+
+.panel-info .info-texto {
+  margin-top: 20px;
+}
+
+.panel-info h2 {
+  color: #fff;
+  margin: 0 0 10px 0;
+  font-size: 1.5em;
+  text-align: left;
+}
+
+.fecha {
+  color: #8bb4f3;
+  font-size: 0.9em;
+  display: block;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.panel-info p {
+  color: #ddd;
+  line-height: 1.6;
+  font-size: 0.95em;
+  text-align: left;
+}
+
+/* Reproductor de audio */
+.musica-individual {
+  margin-top: 30px;
+  background-color: #1a1a1a;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #333;
+}
+
+.musica-individual p {
+  margin: 0 0 10px 0;
+  color: #ffb86c;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+.musica-individual audio {
+  width: 100%;
+  height: 35px;
+}
+
+/* Botón de salida (X) */
+.boton-cerrar-lightbox {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 5px;
+  transition: color 0.2s ease;
+}
+
+.boton-cerrar-lightbox:hover {
+  color: #ff4757;
+}
