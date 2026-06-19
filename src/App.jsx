@@ -9,23 +9,23 @@ function App() {
   const albumes = [
     {
       idAlbum: "album-1",
-      tituloAlbum: "Naturaleza y Paisajes",
+      tituloAlbum: "Magi",
       fotos: [
         {
           id: 1,
           tipo: "foto",
-          url: "https://picsum.photos/id/10/1200/900",
+          url: "IMG_0729.jpg",
           titulo: "Bosque Místico",
-          fecha: "15 de Mayo, 2026",
+          fecha: "1 de febrero, 2026",
           descripcion: "Una caminata matutina donde la niebla abrazaba los árboles en la sierra de Piura.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
         },
         {
           id: 2,
           tipo: "foto",
-          url: "https://picsum.photos/id/11/1200/900",
+          url: "IMG_0742.jpg",
           titulo: "Ruta Salvaje",
-          fecha: "20 de Mayo, 2026",
+          fecha: "1 de febrero, 2026",
           descripcion: "El camino hacia una nueva aventura. La luz natural era perfecta para capturar los detalles con mi Canon.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
         }
