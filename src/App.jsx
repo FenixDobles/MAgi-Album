@@ -10,6 +10,7 @@ function App() {
     {
       idAlbum: "album-1",
       tituloAlbum: "Magi",
+      musicaColeccion: "./José José - El Triste (LetraLyrics).mp3",
       fotos: [
         {
           id: 1,
@@ -17,8 +18,7 @@ function App() {
           url: "./IMG_0729.JPG",
           titulo: "Magi",
           fecha: "1 de febrero, 2026",
-          descripcion: "LOL",
-          musica: "./José José - El Triste (LetraLyrics).mp3"
+          descripcion: "LOL", 
         },
         {
           id: 2,
@@ -27,7 +27,6 @@ function App() {
           titulo: "Ruta Salvaje",
           fecha: "1 de febrero, 2026",
           descripcion: "El camino hacia una nueva aventura. La luz natural era perfecta para capturar los detalles con mi Canon.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
         },
        {
           id: 3,
@@ -36,7 +35,6 @@ function App() {
           titulo: "Ño",
           fecha: "1 de febrero, 2026",
           descripcion: "OMG",
-          musica: "https://www.youtube.com/watch?v=MxEjnYdfLXU&list=RDNxkYp6Y-wbU&index=14"
         }
       ]
     },
