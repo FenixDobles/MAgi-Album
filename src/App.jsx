@@ -14,11 +14,11 @@ function App() {
         {
           id: 1,
           tipo: "foto",
-          url: "//IMG_0729.JPG",
-          titulo: "Bosque Místico",
+          url: "/IMG_0729.JPG",
+          titulo: "Magi",
           fecha: "1 de febrero, 2026",
-          descripcion: "Una caminata matutina donde la niebla abrazaba los árboles en la sierra de Piura.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+          descripcion: "LOL",
+          musica: "https://https://www.youtube.com/watch?v=MxEjnYdfLXU&list=RDNxkYp6Y-wbU&index=14"
         },
         {
           id: 2,
