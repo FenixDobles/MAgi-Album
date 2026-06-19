@@ -14,16 +14,16 @@ function App() {
         {
           id: 1,
           tipo: "foto",
-          url: "./MAgi-Album/IMG_0729.JPG",
+          url: "./IMG_0729.JPG",
           titulo: "Magi",
           fecha: "1 de febrero, 2026",
           descripcion: "LOL",
-          musica: "https://www.youtube.com/watch?v=MxEjnYdfLXU&list=RDNxkYp6Y-wbU&index=14"
+          musica: "./José José - El Triste (LetraLyrics).mp3"
         },
         {
           id: 2,
           tipo: "foto",
-          url: "./IMG_0742.JPG",
+          url: "./IMG_0744.JPG",
           titulo: "Ruta Salvaje",
           fecha: "1 de febrero, 2026",
           descripcion: "El camino hacia una nueva aventura. La luz natural era perfecta para capturar los detalles con mi Canon.",
