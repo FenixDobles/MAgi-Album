@@ -14,7 +14,7 @@ function App() {
         {
           id: 1,
           tipo: "foto",
-          url: "/IMG_0729.jpg",
+          url: "//IMG_0729.JPG",
           titulo: "Bosque Místico",
           fecha: "1 de febrero, 2026",
           descripcion: "Una caminata matutina donde la niebla abrazaba los árboles en la sierra de Piura.",
@@ -23,7 +23,7 @@ function App() {
         {
           id: 2,
           tipo: "foto",
-          url: "/IMG_0742.jpg",
+          url: "/IMG_0742.JPG",
           titulo: "Ruta Salvaje",
           fecha: "1 de febrero, 2026",
           descripcion: "El camino hacia una nueva aventura. La luz natural era perfecta para capturar los detalles con mi Canon.",
