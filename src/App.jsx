@@ -29,7 +29,15 @@ function App() {
           descripcion: "El camino hacia una nueva aventura. La luz natural era perfecta para capturar los detalles con mi Canon.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
         }
-      ]
+       {
+          id: 3,
+          tipo: "foto",
+          url: "./MAgi-Album/IMG_0753.JPG",
+          titulo: "Ño",
+          fecha: "1 de febrero, 2026",
+          descripcion: "OMG LOL",
+          musica: "https://www.youtube.com/watch?v=MxEjnYdfLXU&list=RDNxkYp6Y-wbU&index=14"
+        },
     },
     {
       idAlbum: "album-2",
