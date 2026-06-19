@@ -32,7 +32,7 @@ function App() {
        {
           id: 3,
           tipo: "foto",
-          url: "./MAgi-Album/IMG_0758.JPG",
+          url: "./IMG_0758.JPG",
           titulo: "Ño",
           fecha: "1 de febrero, 2026",
           descripcion: "OMG",
