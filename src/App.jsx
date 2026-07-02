@@ -42,7 +42,7 @@ function App() {
        {
           id: 4,
           tipo: "foto",
-          url: "./IMG_0758.JPG",
+          url: "/IMG_0758.JPG",
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
           descripcion: "JADSASD, se nota que le gusta mucho, pero a mi me gusta ella. La amo una infinidad",
