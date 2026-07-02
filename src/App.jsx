@@ -9,41 +9,69 @@ function App() {
   const albumes = [
     {
       idAlbum: "album-1",
-      tituloAlbum: "Magi",
-      musicaColeccion: "./José José - El Triste (LetraLyrics).mp3",
+      tituloAlbum: "Mi Magi",
+      musicaColeccion: "./Mon Amour Remix.mp3",
       fotos: [
         {
           id: 1,
           tipo: "foto",
-          url: "./IMG_0729.JPG",
-          titulo: "Magi",
-          fecha: "1 de febrero, 2026",
-          descripcion: "LOL", 
-          musica: "./José José - El Triste (LetraLyrics).mp3"
+          url: "./IMG_20260702_174146.JPG",
+          titulo: "Ella es Magi",
+          fecha: "30 de Mayo, 2026",
+          descripcion: "Ella es Magi, la mujer que me hace feliz y me inspira a ser mejor cada día. Es una niña que se esfuerza mucho en todo lo que hace, su sonrisa todo el mundo, es totalmente increible. La amo sin medidda.", 
+          musica: "./Mon Amour Remix.mp3"
         },
         {
           id: 2,
           tipo: "foto",
-          url: "./IMG_0744.JPG",
-          titulo: "Ruta Salvaje",
-          fecha: "1 de febrero, 2026",
-          descripcion: "Canon.",
-          musica: "./José José - El Triste (LetraLyrics).mp3"
+          url: "./IMG_0729.JPG",
+          titulo: "Visita magica de Magi :v",
+          fecha: "1 de Febrero, 2026",
+          descripcion: "Magi es un niña muy linda y especial para mi. El dia que vino a mi casa y compartimos una parte del día juntos fue especial y me hizo muy feliz. La amo mucho y espero que siempre estemos juntos. jijijiji", 
+          musica: "./Mon Amour Remix.mp3"
         },
-       {
+        {
           id: 3,
           tipo: "foto",
+          url: "./IMG_0744.JPG",
+          titulo: "Visita magica de Magi :v",
+          fecha: "1 de Febrero, 2026",
+          descripcion: "Me pregunto que cara pondria si vuelve a esta misma escena, de seguro ni vendria PUASDJAJSDJ. En fin, es demasiado linda a pesar de todo.",
+          musica: "./Mon Amour Remix.mp3"
+        },
+       {
+          id: 4,
+          tipo: "foto",
           url: "./IMG_0758.JPG",
-          titulo: "Ño",
-          fecha: "1 de febrero, 2026",
-          descripcion: "OMG",
-          musica: "./José José - El Triste (LetraLyrics).mp3"
+          titulo: "Visita magica de Magi :v",
+          fecha: "1 de Febrero, 2026",
+          descripcion: "JADSASD, se nota que le gusta mucho, pero a mi me gusta ella. La amo una infinidad",
+          musica: "./Mon Amour Remix.mp3"
+        },
+        {
+          id: 5,
+          tipo: "foto",
+          url: "./IMG_1145.JPG",
+          titulo: "Magi baila",
+          fecha: "10 de Mayo, 2026",
+          descripcion: "Esta es una niña muy muy hermosa, me gusta pasar tiempo con ella, no importa lo que hagamos o dónde estemos, mientras sea con ella yo estaré feliz. La amo mucho.",
+          musica: "./Mon Amour Remix.mp3"
+        },
+        {
+          id: 6,
+          tipo: "video",
+          url: "/MAgi.mp4",
+          thumbnail: "", // Portada en la cuadrícula
+          titulo: "Magi baila",
+          fecha: "10 de Mayo, 2026",
+          descripcion: "-",
+          musica: null // Los videos reproducen su propio sonido nativo
         }
       ]
     },
     {
       idAlbum: "album-2",
-      tituloAlbum: "Proyectos Audiovisuales",
+      tituloAlbum: "Magi y yo",
       fotos: [
         {
           id: 3,
@@ -103,8 +131,8 @@ function App() {
 
   return (
     <div className="contenedor-album">
-      <h1>El Álbum Fotográfico de Leandro</h1>
-      <p>Explora mis colecciones multimedia.</p>
+      <h1>Fotos Chidas</h1>
+      <p>Espero vayan aumentando...</p>
       
       {/* Bloques de Álbumes */}
       {albumes.map((album) => (
