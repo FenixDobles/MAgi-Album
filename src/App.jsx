@@ -15,7 +15,7 @@ function App() {
         {
           id: 1,
           tipo: "foto",
-          url: "./IMG_20260702_174146.JPG",
+          url: "./Gemini_Generated_Image_o7cwgwo7cwgwo7cw.JPG",
           titulo: "Ella es Magi",
           fecha: "30 de Mayo, 2026",
           descripcion: "Ella es Magi, la mujer que me hace feliz y me inspira a ser mejor cada día. Es una niña que se esfuerza mucho en todo lo que hace, su sonrisa todo el mundo, es totalmente increible. La amo sin medidda.", 
