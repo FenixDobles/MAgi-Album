@@ -33,14 +33,23 @@ function App() {
         {
           id: 3,
           tipo: "foto",
-          url: "./IMG_0744.JPG",
+          url: "./IMG_0747.JPG",
+          titulo: "Visita magica de Magi :v",
+          fecha: "1 de Febrero, 2026",
+          descripcion: "Me pregunto que cara pondria si vuelve a esta misma escena, de seguro ni vendria PUASDJAJSDJ. En fin, es demasiado linda a pesar de todo.",
+          musica: "./Mon Amour Remix.mp3"
+        },
+        {
+          id: 4,
+          tipo: "foto",
+          url: "./IMG_07471.JPG",
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
           descripcion: "Me pregunto que cara pondria si vuelve a esta misma escena, de seguro ni vendria PUASDJAJSDJ. En fin, es demasiado linda a pesar de todo.",
           musica: "./Mon Amour Remix.mp3"
         },
        {
-          id: 4,
+          id: 5,
           tipo: "foto",
           url: "./IMG_0758.JPG",
           titulo: "Visita magica de Magi :v",
@@ -49,7 +58,7 @@ function App() {
           musica: "./Mon Amour Remix.mp3"
         },
         {
-          id: 5,
+          id: 6,
           tipo: "foto",
           url: "./IMG_1145.JPG",
           titulo: "Magi baila",
@@ -58,7 +67,7 @@ function App() {
           musica: "./Mon Amour Remix.mp3"
         },
         {
-          id: 6,
+          id: 7,
           tipo: "video",
           url: "./MAgi.mp4",
           thumbnail: "", // Portada en la cuadrícula
