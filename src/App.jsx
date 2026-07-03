@@ -66,7 +66,16 @@ function App() {
           fecha: "10 de Mayo, 2026",
           descripcion: "-",
           musica: null // Los videos reproducen su propio sonido nativo
-        }
+        },
+         {
+          id: 7,
+          tipo: "foto",
+          url: "./WhatsApp Image 2026-06-27 at 23.05.45.JPEG",
+          titulo: "Magi baila",
+          fecha: "10 de Mayo, 2026",
+          descripcion: "Esta es una niña muy muy hermosa, me gusta pasar tiempo con ella, no importa lo que hagamos o dónde estemos, mientras sea con ella yo estaré feliz. La amo mucho.",
+          musica: "./Mon Amour Remix.mp3"
+        },
       ]
     },
     {
