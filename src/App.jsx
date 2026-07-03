@@ -45,7 +45,7 @@ function App() {
           url: "./IMG_07471.JPG",
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
-          descripcion: "La mirada de las mil suegras :v, te está respirando den la nuca. jjijijij",
+          descripcion: "La mirada de las mil suegras :v, te está respirando en la nuca. jjijijij",
           musica: "./Mon Amour Remix.mp3"
         },
        {
@@ -54,7 +54,7 @@ function App() {
           url: "./IMG_0758.JPG",
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
-          descripcion: "JADSASD, se nota que le gusta mucho, pero a mi me gusta ella. La amo una infinidad",
+          descripcion: "JADSASD, se nota que le gusta mucho, pero a mi me gusta más ella. La amo una infinita infinidad",
           musica: "./Mon Amour Remix.mp3"
         },
         {
@@ -83,6 +83,24 @@ function App() {
       tituloAlbum: "Magi y yo",
       fotos: [
         {
+          id: 1,
+          tipo: "foto",
+          url: "./IMG-20260412-WA0029.jpg",
+          titulo: "Ocaso en la Playa",
+          fecha: "2 de Junio, 2026",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+        },
+     {
+          id: 2,
+          tipo: "foto",
+          url: "https://picsum.photos/id/12/1200/900",
+          titulo: "Ocaso en la Playa",
+          fecha: "2 de Junio, 2026",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+        },
+        {
           id: 3,
           tipo: "foto",
           url: "https://picsum.photos/id/12/1200/900",
@@ -93,13 +111,66 @@ function App() {
         },
         {
           id: 4,
-          tipo: "video",
-          url: "/MAgi.mp4",
-          thumbnail: "https://picsum.photos/id/15/1200/900", // Portada en la cuadrícula
-          titulo: "Clip Cinemático de la Naturaleza",
-          fecha: "5 de Junio, 2026",
-          descripcion: "Un hermoso amanecer con el río fluyendo entre las rocas, evaluando la transición de color y movimiento.",
-          musica: null // Los videos reproducen su propio sonido nativo
+          tipo: "foto",
+          url: "https://picsum.photos/id/12/1200/900",
+          titulo: "Ocaso en la Playa",
+          fecha: "2 de Junio, 2026",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+        },
+        {
+          id: 5,
+          tipo: "foto",
+          url: "https://picsum.photos/id/12/1200/900",
+          titulo: "Ocaso en la Playa",
+          fecha: "2 de Junio, 2026",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+        },
+        {
+          id: 6,
+          tipo: "foto",
+          url: "https://picsum.photos/id/12/1200/900",
+          titulo: "Ocaso en la Playa",
+          fecha: "2 de Junio, 2026",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+        },
+        {
+          id: 7,
+          tipo: "foto",
+          url: "https://picsum.photos/id/12/1200/900",
+          titulo: "Ocaso en la Playa",
+          fecha: "2 de Junio, 2026",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+        },
+        {
+          id: 8,
+          tipo: "foto",
+          url: "https://picsum.photos/id/12/1200/900",
+          titulo: "Ocaso en la Playa",
+          fecha: "2 de Junio, 2026",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+        },
+        {
+          id: 9,
+          tipo: "foto",
+          url: "./WhatsApp Image 2026-06-27 at 23.05.45.jpeg",
+          titulo: "Ocaso en la Playa",
+          fecha: "27 de Junio, 2026",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+        },
+        {
+          id: 10,
+          tipo: "foto",
+          url: "./WhatsApp Image 2026-06-28 at 00.05.56.jpeg",
+          titulo: "Ocaso en la Playa",
+          fecha: "27 de Junio, 2026",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         }
       ]
     }
