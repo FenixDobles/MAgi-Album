@@ -33,7 +33,7 @@ function App() {
         {
           id: 3,
           tipo: "foto",
-          url: "./IMG_0747.JPG",
+          url: "./IMG_0753.JPG",
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
           descripcion: "Me pregunto que cara pondria si vuelve a esta misma escena, de seguro ni vendria PUASDJAJSDJ. En fin, es demasiado linda a pesar de todo.",
@@ -45,7 +45,7 @@ function App() {
           url: "./IMG_07471.JPG",
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
-          descripcion: "Me pregunto que cara pondria si vuelve a esta misma escena, de seguro ni vendria PUASDJAJSDJ. En fin, es demasiado linda a pesar de todo.",
+          descripcion: "La mirada de las mil suegras :v, te está respirando den la nuca. jjijijij",
           musica: "./Mon Amour Remix.mp3"
         },
        {
