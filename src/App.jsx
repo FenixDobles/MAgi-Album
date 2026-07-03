@@ -15,7 +15,7 @@ function App() {
         {
           id: 1,
           tipo: "foto",
-          url: "./IMG-20260411-WA0017.jpg",
+          url: "./IMG_20260702_174146.jpg",
           titulo: "Ella es Magi",
           fecha: "30 de Mayo, 2026",
           descripcion: "Ella es Magi, la mujer que me hace feliz y me inspira a ser mejor cada día. Es una niña que se esfuerza mucho en todo lo que hace, su sonrisa todo el mundo, es totalmente increible. La amo sin medidda.", 
@@ -24,7 +24,7 @@ function App() {
         {
           id: 2,
           tipo: "foto",
-          url: "./IMG_0729.JPG",
+          url: "./IMG_0742.JPG",
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
           descripcion: "Magi es un niña muy linda y especial para mi. El dia que vino a mi casa y compartimos una parte del día juntos fue especial y me hizo muy feliz. La amo mucho y espero que siempre estemos juntos. jijijiji", 
@@ -66,16 +66,7 @@ function App() {
           fecha: "10 de Mayo, 2026",
           descripcion: "-",
           musica: null // Los videos reproducen su propio sonido nativo
-        },
-         {
-          id: 7,
-          tipo: "foto",
-          url: "./IMG-20260404-WA0077.jpg",
-          titulo: "Magi prueba",
-          fecha: "10 de Mayo, 2026",
-          descripcion: "Esta es una niña muy muy hermosa, me gusta pasar tiempo con ella, no importa lo que hagamos o dónde estemos, mientras sea con ella yo estaré feliz. La amo mucho.",
-          musica: "./Mon Amour Remix.mp3"
-        },
+        }
       ]
     },
     {
