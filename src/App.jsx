@@ -68,6 +68,15 @@ function App() {
         },
         {
           id: 7,
+          tipo: "foto",
+          url: "IMG-20260511-WA0008.jpg",
+          titulo: "Ocaso en la Playa",
+          fecha: "11 de Mayo, 2026",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "./Mon Amour Remix.mp3"
+        },
+        {
+          id: 8,
           tipo: "video",
           url: "./MAgi.mp4",
           thumbnail: "", // Portada en la cuadrícula
@@ -157,15 +166,6 @@ function App() {
         {
           id: 9,
           tipo: "foto",
-          url: "IMG-20260511-WA0008.jpg",
-          titulo: "Ocaso en la Playa",
-          fecha: "11 de Mayo, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
-        },
-        {
-          id: 10,
-          tipo: "foto",
           url: "./IMG-20260530-WA0002.jpg",
           titulo: "Ocaso en la Playa",
           fecha: "30 de Mayo, 2026",
@@ -173,7 +173,7 @@ function App() {
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
-          id: 11,
+          id: 10,
           tipo: "foto",
           url: "./IMG-20260622-WA0090.jpg",
           titulo: "Ocaso en la Playa",
@@ -182,7 +182,7 @@ function App() {
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
-          id: 12,
+          id: 11,
           tipo: "foto",
           url: "./WhatsApp Image 2026-06-27 at 23.05.45.jpeg",
           titulo: "Ocaso en la Playa",
@@ -191,7 +191,7 @@ function App() {
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
-          id: 13,
+          id: 12,
           tipo: "foto",
           url: "./WhatsApp Image 2026-06-28 at 00.05.56.jpeg",
           titulo: "Ocaso en la Playa",
