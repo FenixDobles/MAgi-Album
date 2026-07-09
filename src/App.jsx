@@ -317,7 +317,7 @@ function App() {
             <div className="panel-info">
               <button className="boton-cerrar-lightbox" onClick={() => setFotoActualRef(null)}>❌​</button>
               
-              <div className="info-texto">
+              <div className="info-texto" key={fotoAbierta.id}>
                 <h2>{fotoAbierta.titulo}</h2>
                 <span className="fecha">📅 {fotoAbierta.fecha}</span>
                 <p>{fotoAbierta.descripcion}</p>
