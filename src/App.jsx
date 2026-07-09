@@ -62,7 +62,7 @@ function App() {
           tipo: "foto",
           url: "./IMG_1145.JPG",
           titulo: "Magi baila",
-          fecha: "10 de Mayo, 2026",
+          fecha: "10 de mayo, 2026",
           descripcion: "Esta es una niña muy muy hermosa, me gusta pasar tiempo con ella, no importa lo que hagamos o dónde estemos, mientras sea con ella yo estaré feliz. La amo mucho.",
           musica: "./Freebola.mp3"
         },
@@ -71,7 +71,7 @@ function App() {
           tipo: "foto",
           url: "IMG-20260511-WA0008.jpg",
           titulo: "Ocaso en la Playa",
-          fecha: "11 de Mayo, 2026",
+          fecha: "11 de mayo, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "./Freebola.mp3"
         },
@@ -81,7 +81,7 @@ function App() {
           url: "./MAgi.mp4",
           thumbnail: "", // Portada en la cuadrícula
           titulo: "Magi baila",
-          fecha: "10 de Mayo, 2026",
+          fecha: "10 de mayo, 2026",
           descripcion: "-",
           musica: null // Los videos reproducen su propio sonido nativo
         }
@@ -97,7 +97,7 @@ function App() {
           tipo: "foto",
           url: "./IMG_20251130_104302.jpg",
           titulo: "Ocaso en la Playa",
-          fecha: "30 de Noviembre, 2025",
+          fecha: "30 de noviembre, 2025",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
@@ -106,7 +106,7 @@ function App() {
           tipo: "foto",
           url: "./IMG_20251130_104308.jpg",
           titulo: "Ocaso en la Playa",
-          fecha: "30 de Noviembre, 2025",
+          fecha: "30 de noviembre, 2025",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
@@ -115,7 +115,7 @@ function App() {
           tipo: "foto",
           url: "./IMG-20260404-WA0077.jpg",
           titulo: "Ocaso en la Playa",
-          fecha: "4 de Abril, 2026",
+          fecha: "4 de abril, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
@@ -124,7 +124,7 @@ function App() {
           tipo: "foto",
           url: "./IMG-20260412-WA0029.jpg",
           titulo: "Ocaso en la Playa",
-          fecha: "12 de Abril, 2026",
+          fecha: "12 de abril, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
@@ -133,7 +133,7 @@ function App() {
           tipo: "foto",
           url: "./IMG-20260412-WA0028.jpg",
           titulo: "Ocaso en la Playa",
-          fecha: "12 de Abril, 2026",
+          fecha: "12 de abril, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
@@ -142,7 +142,7 @@ function App() {
           tipo: "foto",
           url: "./IMG-20260412-WA0027.jpg",
           titulo: "Ocaso en la Playa",
-          fecha: "12 de Abril, 2026",
+          fecha: "12 de abril, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
@@ -160,7 +160,7 @@ function App() {
           tipo: "foto",
           url: "./IMG_1150.JPG",
           titulo: "Ocaso en la Playa",
-          fecha: "10 de mayo de Mayo, 2026",
+          fecha: "10 de mayo, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
@@ -169,7 +169,7 @@ function App() {
           tipo: "foto",
           url: "./IMG-20260530-WA0002.jpg",
           titulo: "Ocaso en la Playa",
-          fecha: "30 de Mayo, 2026",
+          fecha: "30 de mayo, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
@@ -178,7 +178,7 @@ function App() {
           tipo: "foto",
           url: "./IMG-20260622-WA0090.jpg",
           titulo: "Ocaso en la Playa",
-          fecha: "30 de Mayo, 2026",
+          fecha: "30 de mayo, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
@@ -187,7 +187,7 @@ function App() {
           tipo: "foto",
           url: "./WhatsApp Image 2026-06-27 at 23.05.45.jpeg",
           titulo: "Ocaso en la Playa",
-          fecha: "22 de Junio, 2026",
+          fecha: "22 de junio, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
@@ -196,7 +196,7 @@ function App() {
           tipo: "foto",
           url: "./WhatsApp Image 2026-06-28 at 00.05.56.jpeg",
           titulo: "Ocaso en la Playa",
-          fecha: "27 de Junio, 2026",
+          fecha: "27 de junio, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         }
@@ -204,24 +204,51 @@ function App() {
     },
     {
       idAlbum: "album-3",
-      tituloAlbum: "Honorificos :v",
+      tituloAlbum: "Oddie y Freed",
       musicaColeccion: "./",
       fotos: [
         {
           id: 1,
           tipo: "foto",
-          url: "./IMG_20251130_104302.jpg",
-          titulo: "Ocaso en la Playa",
-          fecha: "30 de Noviembre, 2025",
+          url: "./IMG_0175.JPG",
+          titulo: "Oddie",
+          fecha: " 24 de enero, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
           id: 2,
           tipo: "foto",
-          url: "./IMG_20251130_104303.jpg",
+          url: "./IMG_0836.JPG",
+          titulo: "Fred",
+          fecha: "15 de febrero, 2026",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+        },
+        {
+          id: 3,
+          tipo: "foto",
+          url: "./IMG_0837.JPG",
+          titulo: "Oddie y Fred",
+          fecha: "25 de febrero, 2026",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+        },
+        {
+          id: 4,
+          tipo: "foto",
+          url: "./IMG-20260515-WA0024.jpg",
           titulo: "Ocaso en la Playa",
-          fecha: "30 de Noviembre, 2025",
+          fecha: "15 de mayo, 2026",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+        },
+        {
+          id: 5,
+          tipo: "foto",
+          url: "./IMG-20260515-WA0026.jpg",
+          titulo: "Ocaso en la Playa",
+          fecha: "15 de mayo, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         }
