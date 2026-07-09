@@ -76,7 +76,7 @@ function App() {
           musica: "./Freebola.mp3"
         },
         {
-          id: 8,
+          id: 0,
           tipo: "video",
           url: "./MAgi.mp4",
           thumbnail: "", // Portada en la cuadrícula
