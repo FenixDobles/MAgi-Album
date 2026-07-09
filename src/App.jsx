@@ -10,7 +10,7 @@ function App() {
     {
       idAlbum: "album-1",
       tituloAlbum: "Mi Magi",
-      musicaColeccion: "./Mon Amour Remix.mp3",
+      musicaColeccion: "./Freebola.mp3",
       fotos: [
         {
           id: 1,
@@ -19,7 +19,7 @@ function App() {
           titulo: "Ella es Magi",
           fecha: "30 de Mayo, 2026",
           descripcion: "Ella es Magi, la mujer que me hace feliz y me inspira a ser mejor cada día. Es una niña que se esfuerza mucho en todo lo que hace, su sonrisa todo el mundo, es totalmente increible. La amo sin medidda.", 
-          musica: "./Mon Amour Remix.mp3"
+          musica: "./Freebola.mp3"
         },
         {
           id: 2,
@@ -28,7 +28,7 @@ function App() {
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
           descripcion: "Magi es un niña muy linda y especial para mi. El dia que vino a mi casa y compartimos una parte del día juntos fue especial y me hizo muy feliz. La amo mucho y espero que siempre estemos juntos. jijijiji", 
-          musica: "./Mon Amour Remix.mp3"
+          musica: "./Freebola.mp3"
         },
         {
           id: 3,
@@ -37,7 +37,7 @@ function App() {
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
           descripcion: "Me pregunto que cara pondria si vuelve a esta misma escena, de seguro ni vendria PUASDJAJSDJ. En fin, es demasiado linda a pesar de todo.",
-          musica: "./Mon Amour Remix.mp3"
+          musica: "./Freebola.mp3"
         },
         {
           id: 4,
@@ -46,7 +46,7 @@ function App() {
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
           descripcion: "La mirada de las mil suegras :v, te está respirando en la nuca. jjijijij",
-          musica: "./Mon Amour Remix.mp3"
+          musica: "./Freebola.mp3"
         },
        {
           id: 5,
@@ -55,7 +55,7 @@ function App() {
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
           descripcion: "JADSASD, se nota que le gusta mucho, pero a mi me gusta más ella. La amo una infinita infinidad",
-          musica: "./Mon Amour Remix.mp3"
+          musica: "./Freebola.mp3"
         },
         {
           id: 6,
@@ -64,7 +64,7 @@ function App() {
           titulo: "Magi baila",
           fecha: "10 de Mayo, 2026",
           descripcion: "Esta es una niña muy muy hermosa, me gusta pasar tiempo con ella, no importa lo que hagamos o dónde estemos, mientras sea con ella yo estaré feliz. La amo mucho.",
-          musica: "./Mon Amour Remix.mp3"
+          musica: "./Freebola.mp3"
         },
         {
           id: 7,
@@ -73,7 +73,7 @@ function App() {
           titulo: "Ocaso en la Playa",
           fecha: "11 de Mayo, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
-          musica: "./Mon Amour Remix.mp3"
+          musica: "./Freebola.mp3"
         },
         {
           id: 8,
@@ -90,6 +90,7 @@ function App() {
     {
       idAlbum: "album-2",
       tituloAlbum: "Magi y yo",
+      musicaColeccion: "./",
       fotos: [
         {
           id: 1,
@@ -200,6 +201,31 @@ function App() {
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         }
       ]
+    },
+    {
+      idAlbum: "album-3",
+      tituloAlbum: "Honorificos :v",
+      musicaColeccion: "./",
+      fotos: [
+        {
+          id: 1,
+          tipo: "foto",
+          url: "./IMG_20251130_104302.jpg",
+          titulo: "Ocaso en la Playa",
+          fecha: "30 de Noviembre, 2025",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+        },
+        {
+          id: 2,
+          tipo: "foto",
+          url: "./IMG_20251130_104303.jpg",
+          titulo: "Ocaso en la Playa",
+          fecha: "30 de Noviembre, 2025",
+          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+        }
+      ]
     }
   ];
 
@@ -289,7 +315,7 @@ function App() {
             
             {/* Panel Derecho: Información Lateral */}
             <div className="panel-info">
-              <button className="boton-cerrar-lightbox" onClick={() => setFotoActualRef(null)}>X</button>
+              <button className="boton-cerrar-lightbox" onClick={() => setFotoActualRef(null)}>❌​</button>
               
               <div className="info-texto">
                 <h2>{fotoAbierta.titulo}</h2>
@@ -300,7 +326,7 @@ function App() {
               {/* Música exclusiva solo para las fotografías */}
               {fotoAbierta.tipo === 'foto' && fotoAbierta.musica && (
                 <div className="musica-individual">
-                  <p>🎵 Sonando ahora:</p>
+                  <p>🎵 Musica para ti :p</p>
                   <audio src={fotoAbierta.musica} controls autoPlay loop />
                 </div>
               )}
