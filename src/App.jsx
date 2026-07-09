@@ -18,7 +18,7 @@ function App() {
           url: "./IMG_20260702_174146.jpg",
           titulo: "Ella es Magi",
           fecha: "30 de Mayo, 2026",
-          descripcion: "Ella es Magi, la mujer que me hace feliz y me inspira a ser mejor cada día. Es una niña que se esfuerza mucho en todo lo que hace, su sonrisa todo el mundo, es totalmente increible. La amo sin medidda.", 
+          descripcion: "Ella es mi Magi, la mujer que me hace feliz y me gusta estar con ella. Es una niña que se esfuerza mucho en todo lo que hace, su sonrisa y como se rie me encanta, es totalmente increible. La amo sin medidda.", 
           musica: "./Freebola.mp3"
         },
         {
@@ -27,7 +27,7 @@ function App() {
           url: "./IMG_0742.JPG",
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
-          descripcion: "Magi es un niña muy linda y especial para mi. El dia que vino a mi casa y compartimos una parte del día juntos fue especial y me hizo muy feliz. La amo mucho y espero que siempre estemos juntos. jijijiji", 
+          descripcion: "Magi es un niña muy linda y especial para mi, no sé que haria yo sin ella. El dia que vino a mi casa y compartimos una parte del día juntos fue especial para mi y me hizo muy feliz. La amo mucho y espero que siempre estemos juntos, hasta la infinidad. jijijiji", 
           musica: "./Freebola.mp3"
         },
         {
@@ -36,7 +36,7 @@ function App() {
           url: "./IMG_0753.JPG",
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
-          descripcion: "Me pregunto que cara pondria si vuelve a esta misma escena, de seguro ni vendria PUASDJAJSDJ. En fin, es demasiado linda a pesar de todo.",
+          descripcion: "Me pregunto que cara pondria si vuelve a esta misma escena, de seguro ni vendria PUASDJAJSDJ. En fin, es demasiado linda a pesar de todo. Cada momento que paso a su lado es muy especial para mi, me gusta pasar tiempo con mi novia. ><",
           musica: "./Freebola.mp3"
         },
         {
@@ -45,7 +45,7 @@ function App() {
           url: "./IMG_07471.JPG",
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
-          descripcion: "La mirada de las mil suegras :v, te está respirando en la nuca. jjijijij",
+          descripcion: "La mirada de las mil suegras :v, te está respirando en la nuca. jjijijij. No sé porque eres tan linda, me encantas. ñaaaaam",
           musica: "./Freebola.mp3"
         },
        {
@@ -54,36 +54,26 @@ function App() {
           url: "./IMG_0758.JPG",
           titulo: "Visita magica de Magi :v",
           fecha: "1 de Febrero, 2026",
-          descripcion: "JADSASD, se nota que le gusta mucho, pero a mi me gusta más ella. La amo una infinita infinidad",
+          descripcion: "JADSASD, se nota que le gusta mucho, pero a mi me gusta más ella. La amo una infinita infinidad, Yo tambien quisiera darle un buen mordisco y no hablo de la fruta. JIJIJIJ. ><",
           musica: "./Freebola.mp3"
         },
         {
           id: 6,
           tipo: "foto",
           url: "./IMG_1145.JPG",
-          titulo: "Magi baila",
+          titulo: "Magi Bonita",
           fecha: "10 de mayo, 2026",
-          descripcion: "Esta es una niña muy muy hermosa, me gusta pasar tiempo con ella, no importa lo que hagamos o dónde estemos, mientras sea con ella yo estaré feliz. La amo mucho.",
+          descripcion: "Esta es una niña muy muy hermosa, me gusta pasar tiempo con ella, no importa lo que hagamos o dónde estemos, mientras sea con ella yo estaré feliz. La amo mucho y no me cansaré de repetirlo, es la mejor novia que podria existir.",
           musica: "./Freebola.mp3"
         },
         {
           id: 7,
           tipo: "foto",
           url: "IMG-20260511-WA0008.jpg",
-          titulo: "Ocaso en la Playa",
+          titulo: "Magi y yo",
           fecha: "11 de mayo, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          descripcion: "Cada vez que estoy contigo me siento en las nubes, al igual que Pucca y Garu. Me gusta mucho estar contigo, no me importa donde y cuando. Mis dias contigo son como aún más lindos que esta foto, pero nunca más lindos que tú, ustes es insuperable. Muaaack la amo con todo mi corazón. <3",
           musica: "./Freebola.mp3"
-        },
-        {
-          id: 0,
-          tipo: "video",
-          url: "./MAgi.mp4",
-          thumbnail: "", // Portada en la cuadrícula
-          titulo: "Magi baila",
-          fecha: "10 de mayo, 2026",
-          descripcion: "-",
-          musica: null // Los videos reproducen su propio sonido nativo
         }
       ]
     },
@@ -96,99 +86,99 @@ function App() {
           id: 1,
           tipo: "foto",
           url: "./IMG_20251130_104302.jpg",
-          titulo: "Ocaso en la Playa",
+          titulo: "Como amo a mi novia",
           fecha: "30 de noviembre, 2025",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          descripcion: "Me gusta cuando estás a mi lado, eres todo lo que yo quiero. Sentir tu calor y tu cariño cuando me abrazas y tomas de la mano me hace sentir muy feliz. Te amo mucho y no me canso de decirlo, eres la mejor novia que podría tener.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
      {
           id: 2,
           tipo: "foto",
           url: "./IMG_20251130_104308.jpg",
-          titulo: "Ocaso en la Playa",
+          titulo: "Como amo a mi novia",
           fecha: "30 de noviembre, 2025",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          descripcion: "Es increible como esta niña tan bella se pudo haber fijado en mi, que tan afortunado puedo ser de tenerla conmigo. Yo espero que este grandioso sueño sea eterno.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
           id: 3,
           tipo: "foto",
           url: "./IMG-20260404-WA0077.jpg",
-          titulo: "Ocaso en la Playa",
+          titulo: "Magi y el amor de su vida",
           fecha: "4 de abril, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          descripcion: "Claramente vemos como Magi está al lado del amor de su vida y al costado voy yo :v. jijijiji. Yo la amo a ella.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
           id: 4,
           tipo: "foto",
           url: "./IMG-20260412-WA0029.jpg",
-          titulo: "Ocaso en la Playa",
+          titulo: "Un beso",
           fecha: "12 de abril, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          descripcion: "Magi es muy hermosa, es completamente dificil y complicado no intentar darle un beso, un beso en la frente o en la mejilla, pero un beso en los labios es lo que más deseo. solo un beso.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
           id: 5,
           tipo: "foto",
           url: "./IMG-20260412-WA0028.jpg",
-          titulo: "Ocaso en la Playa",
+          titulo: "Ojo al piojo",
           fecha: "12 de abril, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          descripcion: "visitar a Magi me gusta, en realidad todo lo que haga con ella me gusta, aprecio todo lo que ella hace por mi, me gusta todo de ella, ñaaaam.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
           id: 6,
           tipo: "foto",
           url: "./IMG-20260412-WA0027.jpg",
-          titulo: "Ocaso en la Playa",
+          titulo: "Ojo al piojo",
           fecha: "12 de abril, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          descripcion: "Me gusta ver a Magi feliz y sonriendo, me gusta verla reir y escuchar su risa, me gusta verla contenta. Ver sus ojos tan bonitos, los compararia con un cielo estrellado, pero no hay cielo que se compare con la belleza de sus ojos. Si a ti te gusta Pucca, a mi me gusta Magi, y no hay comparación. La amo mucho. muaaaack.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
           id: 7,
           tipo: "foto",
           url: "./IMG-20260411-WA0017.jpg",
-          titulo: "Ocaso en la Playa",
+          titulo: "Mi linda Novia",
           fecha: "12 de abril, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          descripcion: "No entiendo, no entiendo como puedes ser tan bella, linda, hermosa, espectacular. Cada vez que veo las pocas fotos que tenemos juntos me doy cuenta de lo afortunado que soy de tener a una novia tan linda y hermosa como tú. Eres espectacular.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
           id: 8,
           tipo: "foto",
           url: "./IMG_1150.JPG",
-          titulo: "Ocaso en la Playa",
+          titulo: "Magi espectacular",
           fecha: "10 de mayo, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          descripcion: "Me gusta verme a tu lado, me gusta estar contigo. No me gusta tomarme fotos porque me molesta la idea de que mi rostro ande por ahi, pero contigo es distinto, me gusta verme a tu lado y estar junto a ti. Pero mucho mas que todo eso, me encanta verte a ti, eres demasiado linda y hermosa. La amo mucho y no me canso de decirlo. jijijijij. <3",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
           id: 9,
           tipo: "foto",
           url: "./IMG-20260530-WA0002.jpg",
-          titulo: "Ocaso en la Playa",
+          titulo: "Dos bellas mujeres",
           fecha: "30 de mayo, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          descripcion: "En esta foto vemos a dos bellas mujeres, una es mi novia a quien yo amo mucho. Como puede ser tan fotogenica, tan hermosa y tan bella. Me gusta pasar eventos a tu lado, me gustas tu. muaaack <3.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
           id: 10,
           tipo: "foto",
           url: "./IMG-20260622-WA0090.jpg",
-          titulo: "Ocaso en la Playa",
+          titulo: "Un mono",
           fecha: "30 de mayo, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          descripcion: "Los monos se cuelgan de una rama cunado la necesitan y yo te necesito simpre, dejame colgarme de ti y no me sueltes nunca. Necesito mucho de ti, por mi fuera estaria como garrapata pegado a ti, ojala.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
           id: 11,
           tipo: "foto",
           url: "./WhatsApp Image 2026-06-27 at 23.05.45.jpeg",
-          titulo: "Ocaso en la Playa",
+          titulo: "afortunadas mis piernas",
           fecha: "22 de junio, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
+          descripcion: "--",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         },
         {
