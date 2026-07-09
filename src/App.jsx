@@ -148,7 +148,7 @@ function App() {
         {
           id: 8,
           tipo: "foto",
-          url: "/IMG-20260530-WA0002.jpg",
+          url: "./IMG-20260530-WA0002.jpg",
           titulo: "Ocaso en la Playa",
           fecha: "30 de Mayo, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
@@ -166,7 +166,7 @@ function App() {
         {
           id: 10,
           tipo: "foto",
-          url: "/IMG_1150.JPG",
+          url: "./IMG_1150.JPG",
           titulo: "Ocaso en la Playa",
           fecha: "10 de Mayo, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
@@ -199,7 +199,6 @@ function App() {
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
           musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
         }
-        
       ]
     }
   ];
