@@ -237,7 +237,7 @@ function App() {
         {
           id: 4,
           tipo: "foto",
-          url: "./IMG-20260515-WA0024.jpg",
+          url: "./IMG-20260515-WA0024.jpeg",
           titulo: "Ocaso en la Playa",
           fecha: "15 de mayo, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
@@ -246,7 +246,7 @@ function App() {
         {
           id: 5,
           tipo: "foto",
-          url: "./IMG-20260515-WA0026.jpg",
+          url: "./IMG-20260515-WA0026.jpeg",
           titulo: "Ocaso en la Playa",
           fecha: "15 de mayo, 2026",
           descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
