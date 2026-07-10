@@ -3,8 +3,8 @@
   text-align: center;
   padding: 40px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #6a1b41; /* <-- Morado rojizo oscuro y elegante */
-  color: white; /* <-- Texto blanco para resaltar */
+  background-color: #1a1a1a;
+  color: white;
   min-height: 100vh;
 }
 
