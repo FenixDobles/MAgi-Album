@@ -80,7 +80,7 @@ function App() {
     {
       idAlbum: "album-2",
       tituloAlbum: "Magi y yo",
-      musicaColeccion: "./",
+      musicaColeccion: "./Los Autenticos Decadentes  Corazon.mp3",
       fotos: [
         {
           id: 1,
@@ -89,7 +89,7 @@ function App() {
           titulo: "Como amo a mi novia",
           fecha: "30 de noviembre, 2025",
           descripcion: "Me gusta cuando estás a mi lado, eres todo lo que yo quiero. Sentir tu calor y tu cariño cuando me abrazas y tomas de la mano me hace sentir muy feliz. Te amo mucho y no me canso de decirlo, eres la mejor novia que podría tener.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          musica: "./Los Autenticos Decadentes  Corazon.mp3"
         },
      {
           id: 2,
@@ -98,7 +98,7 @@ function App() {
           titulo: "Como amo a mi novia",
           fecha: "30 de noviembre, 2025",
           descripcion: "Es increible como esta niña tan bella se pudo haber fijado en mi, que tan afortunado puedo ser de tenerla conmigo. Yo espero que este grandioso sueño sea eterno.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          musica: "./Los Autenticos Decadentes  Corazon.mp3"
         },
         {
           id: 3,
@@ -107,7 +107,7 @@ function App() {
           titulo: "Magi y el amor de su vida",
           fecha: "4 de abril, 2026",
           descripcion: "Claramente vemos como Magi está al lado del amor de su vida y al costado voy yo :v. jijijiji. Yo la amo a ella.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          musica: "./Los Autenticos Decadentes  Corazon.mp3"
         },
         {
           id: 4,
@@ -116,7 +116,7 @@ function App() {
           titulo: "Un beso",
           fecha: "12 de abril, 2026",
           descripcion: "Magi es muy hermosa, es completamente dificil y complicado no intentar darle un beso, un beso en la frente o en la mejilla, pero un beso en los labios es lo que más deseo. solo un beso.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          musica: "./Los Autenticos Decadentes  Corazon.mp3"
         },
         {
           id: 5,
@@ -125,7 +125,7 @@ function App() {
           titulo: "Ojo al piojo",
           fecha: "12 de abril, 2026",
           descripcion: "visitar a Magi me gusta, en realidad todo lo que haga con ella me gusta, aprecio todo lo que ella hace por mi, me gusta todo de ella, ñaaaam.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          musica: "./Los Autenticos Decadentes  Corazon.mp3"
         },
         {
           id: 6,
@@ -134,7 +134,7 @@ function App() {
           titulo: "Ojo al piojo",
           fecha: "12 de abril, 2026",
           descripcion: "Me gusta ver a Magi feliz y sonriendo, me gusta verla reir y escuchar su risa, me gusta verla contenta. Ver sus ojos tan bonitos, los compararia con un cielo estrellado, pero no hay cielo que se compare con la belleza de sus ojos. Si a ti te gusta Pucca, a mi me gusta Magi, y no hay comparación. La amo mucho. muaaaack.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          musica: "./Los Autenticos Decadentes  Corazon.mp3"
         },
         {
           id: 7,
@@ -143,7 +143,7 @@ function App() {
           titulo: "Mi linda Novia",
           fecha: "12 de abril, 2026",
           descripcion: "No entiendo, no entiendo como puedes ser tan bella, linda, hermosa, espectacular. Cada vez que veo las pocas fotos que tenemos juntos me doy cuenta de lo afortunado que soy de tener a una novia tan linda y hermosa como tú. Eres espectacular.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          musica: "./Los Autenticos Decadentes  Corazon.mp3"
         },
         {
           id: 8,
@@ -152,7 +152,7 @@ function App() {
           titulo: "Magi espectacular",
           fecha: "10 de mayo, 2026",
           descripcion: "Me gusta verme a tu lado, me gusta estar contigo. No me gusta tomarme fotos porque me molesta la idea de que mi rostro ande por ahi, pero contigo es distinto, me gusta verme a tu lado y estar junto a ti. Pero mucho mas que todo eso, me encanta verte a ti, eres demasiado linda y hermosa. La amo mucho y no me canso de decirlo. jijijijij. <3",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          musica: "./Los Autenticos Decadentes  Corazon.mp3"
         },
         {
           id: 9,
@@ -161,7 +161,7 @@ function App() {
           titulo: "Dos bellas mujeres",
           fecha: "30 de mayo, 2026",
           descripcion: "En esta foto vemos a dos bellas mujeres, una es mi novia a quien yo amo mucho. Como puede ser tan fotogenica, tan hermosa y tan bella. Me gusta pasar eventos a tu lado, me gustas tu. muaaack <3.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          musica: "./Los Autenticos Decadentes  Corazon.mp3"
         },
         {
           id: 10,
@@ -170,7 +170,7 @@ function App() {
           titulo: "Un mono",
           fecha: "30 de mayo, 2026",
           descripcion: "Los monos se cuelgan de una rama cunado la necesitan y yo te necesito simpre, dejame colgarme de ti y no me sueltes nunca. Necesito mucho de ti, por mi fuera estaria como garrapata pegado a ti, ojala.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          musica: "./Los Autenticos Decadentes  Corazon.mp3"
         },
         {
           id: 11,
@@ -178,24 +178,24 @@ function App() {
           url: "./WhatsApp Image 2026-06-27 at 23.05.45.jpeg",
           titulo: "afortunadas mis piernas",
           fecha: "22 de junio, 2026",
-          descripcion: "--",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          descripcion: "Que afortuadas son mis piernas de poder cargar a tan hermosa y bella niña, que afortunado es mi cuerpo por poder sentir el calor del tuyo, pero más afortunado soy yo por poder tenerte a ti mi niña.",
+          musica: "./Los Autenticos Decadentes  Corazon.mp3"
         },
         {
           id: 12,
           tipo: "foto",
           url: "./WhatsApp Image 2026-06-28 at 00.05.56.jpeg",
-          titulo: "Ocaso en la Playa",
+          titulo: "Afortunadas mis piernas",
           fecha: "27 de junio, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          descripcion: "No sé porque, pero me gusta tenerte en mis piernas jjiji. Me gusta cargarte, tenerte entre mis brazos, sentirte cerca mío, que mis labios sientan la suavidad de tu piel, que mis labios sientan el calor de tu cuerpo, que mis labios sientan el sabor de tus labios. En fin, amo todo de ti y lo digo en serio, te amo infinitamente mucho.",
+          musica: "./Los Autenticos Decadentes  Corazon.mp3"
         }
       ]
     },
     {
       idAlbum: "album-3",
       tituloAlbum: "Oddie y Freed",
-      musicaColeccion: "./",
+      musicaColeccion: "./Lovers Rock.mp3",
       fotos: [
         {
           id: 1,
@@ -203,8 +203,8 @@ function App() {
           url: "./IMG_0175.JPG",
           titulo: "Oddie",
           fecha: " 24 de enero, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          descripcion: "Oddie ha sido el primer peluche que he tenido en toda mi vida, y me gusta que sea aún más especial para mi porque es un regalo de mi linda novia, me gusta mucho porque me recuerda a ti. Me recuerda lo mucho que me amas y eso me hace muy feliz. Pero más me hace feliz cuando estas a mi lado, pero cuando no lo estas, tengo a Oddie a mi lado. jijiji.",
+          musica: "./Lovers Rock.mp3"
         },
         {
           id: 2,
@@ -212,8 +212,8 @@ function App() {
           url: "./IMG_0836.JPG",
           titulo: "Fred",
           fecha: "15 de febrero, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          descripcion: "Freed es un pingüino muy lindo al igual que Oddie, pero son incapaces de superar tu belleza. Al igual que Oddie, Freed es un regalo de mi linda novia, me gusta mucho y me gustas mucho. Freed le hace compañía a Oddie y a mi, pero no hay nadie que me haga más feliz que tú. Te amo mucho y al igual que Oddie y Freed, me gusta que seas un regalo de mi vida. jijiji.",
+          musica: "./Lovers Rock.mp3"
         },
         {
           id: 3,
@@ -221,26 +221,26 @@ function App() {
           url: "./IMG_0837.JPG",
           titulo: "Oddie y Fred",
           fecha: "25 de febrero, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          descripcion: "Estos dos se haces compañia el uno al otro, asi como Oddie y Freed, usted y yo deberiamos estar juntos siempre. Mis dos queridos pluches que me recuendan el gran amor que me tienes. Los quiero mucho. Pero amo más a la personita que me los regalo, la amo infinitamente es una persona muy muy muy especial. ",
+          musica: "./Lovers Rock.mp3"
         },
         {
           id: 4,
           tipo: "foto",
-          url: "./IMG-20260515-WA0024.jpeg",
-          titulo: "Ocaso en la Playa",
+          url: "./IMG-20260515-WA0026.jpeg",
+          titulo: "Otro más",
           fecha: "15 de mayo, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          descripcion: "Hicimos un bonito cuadro, no tan bonito como tu, pero me gusta. Ambas manos pintadas juntas, repesenta la union de nosotros ijijij. Me encanta hacer cosas contigo ><",
+          musica: "./Lovers Rock.mp3"
         },
         {
           id: 5,
           tipo: "foto",
-          url: "./IMG-20260515-WA0026.jpeg",
-          titulo: "Ocaso en la Playa",
+          url: "./IMG-20260515-WA0024.jpeg",
+          titulo: "Un pequeño altar",
           fecha: "15 de mayo, 2026",
-          descripcion: "El sol escondiéndose en el horizonte, creando reflejos dorados sobre el agua.",
-          musica: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+          descripcion: "Con los tres juntos y estas pequeñas fotos, pude hacerte un pequeño altar, un tributo. Porque eres lo que más me importa y quiero en esta vida. Llegaste a darle color a mi vida por eso te amo demasiado. Que no te quede dudas de eso. Muaaack",
+          musica: "./Lovers Rock.mp3"
         }
       ]
     }
