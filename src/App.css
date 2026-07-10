@@ -3,8 +3,8 @@
   text-align: center;
   padding: 40px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #D8BFD8; /* <-- Color Lila */
-  color: #1a1a1a; /* <-- Texto oscuro para poder leer sobre el fondo claro */
+  background-color: #6a1b41; /* <-- Morado rojizo oscuro y elegante */
+  color: white; /* <-- Texto blanco para resaltar */
   min-height: 100vh;
 }
 
